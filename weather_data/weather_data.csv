@@ -1,0 +1,6 @@
+date,mean_temp,max_temp,min_temp,dew_point,precipitation,wind_speed,max_wind_speed,visibility,sun_rise,sun_set,day_length
+2012-01-01,8,10,6,7,0.6,20,30,11.5,8:13 AM GMT,3:57 PM GMT,7h 44m
+2012-01-02,4,6,3,2,0.0,21,35,11.5,8:13 AM GMT,3:58 PM GMT,7h 45m
+2012-01-03,8,11,5,4,3.0,37,56,89,8:12 AM GMT,3:59 PM GMT,7h 46m
+2012-01-04,7,10,4,3,0.4,35,67,87,8:12 AM GMT,4:00 PM GMT,7h 47m
+2012-01-05,6,8,5,2,1.0,40,56,89,8:12 AM GMT,4:01 PM GMT,7h 49m
