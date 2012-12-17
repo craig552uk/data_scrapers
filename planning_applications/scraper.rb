@@ -34,8 +34,8 @@ require 'nokogiri'   # http://nokogiri.org/
 
 # Start and end dates for search period
 # must be in DD/MM/YYYY format
-START_DATE = '01/11/2012'
-END_DATE   = '01/12/2012'
+START_DATE = '17/08/2012'
+END_DATE   = '17/12/2012'
 
 # Application type
 # DEC = decided applications
@@ -43,7 +43,7 @@ END_DATE   = '01/12/2012'
 APPLICATION_TYPE = 'DEC'
 
 # The data file to write to
-OUTPUT_FILE = 'planning_addresses.csv'
+OUTPUT_FILE = 'planning_addressesTest.csv'
 
 
 ### Methods ###
